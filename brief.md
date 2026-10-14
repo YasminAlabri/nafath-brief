@@ -12,6 +12,10 @@ Resource: OpenID Connect Core 1.0 - https://openid.net/specs/openid-connect-core
 
 ## AI
 
+The NIST AI Risk Management Framework (AI RMF) provides four functions: Govern, Map, Measure, and Manage. Before using an AI model to detect suspicious logins, the authority should identify risks such as false alerts, unfair bias, and privacy problems involving citizens' data. The model should be tested to measure its accuracy before deployment. Clear responsibility, regular monitoring, and human review of important decisions can help reduce risks and protect users.
+Resource: NIST AI Risk Management Framework - https://www.nist.gov/itl/ai-risk-management-framework 
+
+
 ## Mobile
 
 ## Networking
