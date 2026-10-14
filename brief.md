@@ -7,7 +7,7 @@ A national login service allows citizens to access different government services
 
 ## Software
 
-OAuth 2.0 and OpenID Connect have different purposes. OAuth 2.0 is an authorization framework that allows applications to access specific resources with permission. OpenID Connect is an identity layer built on top of OAuth 2.0. It adds authentication, allowing an application to verify who the user is through an ID token. For a national login service, OpenID Connect is suitable for verifying citizens' identities, while OAuth 2.0 supports authorized access to protected resources.
+OAuth 2.0 and OpenID Connect have different purposes. OAuth 2.0 is an authorization framework that allows applications to access specific resources with permission. OpenID Connect is an identity layer built on top of OAuth 2.0. It adds authentication, allowing an application to verify who the user is through an ID token. For a national login service, OpenID Connect is suitable for verifying citizens' identities, while OAuth 2.0 supports authorized access to protected resources. 
 Resource: OpenID Connect Core 1.0 - https://openid.net/specs/openid-connect-core-1_0.html
 
 ## AI
