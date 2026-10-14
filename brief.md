@@ -25,9 +25,21 @@ Resource: Permissions on Android - https://developer.android.com/guide/topics/pe
 
 ## Networking
 
+DNS over HTTPS (DoH) sends DNS queries through encrypted HTTPS connections. This helps prevent other devices on the network from easily reading or changing DNS queries while they travel between the user and the DoH resolver. However, DoH does not provide complete privacy. The DoH provider may still see the queries, and the user's destination IP address may remain visible to the network. DoH also cannot prevent users from visiting phishing websites.
+
+Resource: RFC 8484 - https://www.rfc-editor.org/rfc/rfc8484
+
 ## Cybersecurity
 
+Phishing-resistant multi-factor authentication (MFA) helps stop attackers from using stolen login information on fake websites. FIDO2/WebAuthn and security keys provide strong protection because authentication is linked to the legitimate website. In contrast, SMS codes and app-generated one-time passwords can be stolen through phishing. Users may be tricked into entering these codes on a fake login page, allowing attackers to access their accounts.
+
+Resource: Implementing Phishing-Resistant MFA - https://www.cisa.gov/sites/default/files/2023-01/fact-sheet-implementing-phishing-resistant-mfa-508c.pdf
+
 ## Data
+
+Oman's Personal Data Protection Law, issued by Royal Decree 6/2022 and amended in 2026, defines a controller as the legal person responsible for processing personal data. Where the law applies, the controller must obtain explicit consent unless a legal exception applies, establish safeguards to manage risks, and erase data when its processing purpose ends, subject to legal exceptions. Article 3 excludes certain processing by government bodies when carrying out their legally assigned functions, so the law's applicability must be assessed carefully.
+
+Resource: Royal Decree 6/2022 Issuing the Personal Data Protection Law (Consolidated) - https://decree.om/2022/l20220006/
 
 ## Misconception in My Track
 
