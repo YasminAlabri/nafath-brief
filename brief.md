@@ -37,7 +37,7 @@ Resource: Implementing Phishing-Resistant MFA - https://www.cisa.gov/sites/defau
 
 ## Data
 
-Oman's Personal Data Protection Law, issued by Royal Decree 6/2022 and amended in 2026, defines a controller as the legal person responsible for processing personal data. Where the law applies, the controller must obtain explicit consent unless a legal exception applies, establish safeguards to manage risks, and erase data when its processing purpose ends, subject to legal exceptions. Article 3 excludes certain processing by government bodies when carrying out their legally assigned functions, so the law's applicability must be assessed carefully.
+Oman's Personal Data Protection Law, issued by Royal Decree 6/2022, defines a controller as the legal person responsible for processing personal data. Where the law applies, the controller must obtain explicit consent unless a legal exception applies, establish safeguards to manage risks, and erase data when its processing purpose ends, subject to legal exceptions. Article 3 excludes certain processing by government bodies when carrying out their legally assigned functions, so the law's applicability must be assessed carefully.
 
 Resource: Royal Decree 6/2022 Issuing the Personal Data Protection Law (Consolidated) - https://decree.om/2022/l20220006/
 
