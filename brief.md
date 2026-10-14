@@ -7,16 +7,21 @@ A national login service allows citizens to access different government services
 
 ## Software
 
-OAuth 2.0 and OpenID Connect have different purposes. OAuth 2.0 is an authorization framework that allows applications to access specific resources with permission. OpenID Connect is an identity layer built on top of OAuth 2.0. It adds authentication, allowing an application to verify who the user is through an ID token. For a national login service, OpenID Connect is suitable for verifying citizens' identities, while OAuth 2.0 supports authorized access to protected resources. 
+OAuth 2.0 and OpenID Connect have different purposes. OAuth 2.0 is an authorization framework that allows applications to access specific resources with permission. OpenID Connect is an identity layer built on top of OAuth 2.0. It adds authentication, allowing an application to verify who the user is through an ID token. For a national login service, OpenID Connect is suitable for verifying citizens' identities, while OAuth 2.0 supports authorized access to protected resources.
+
 Resource: OpenID Connect Core 1.0 - https://openid.net/specs/openid-connect-core-1_0.html
 
 ## AI
 
 The NIST AI Risk Management Framework (AI RMF) provides four functions: Govern, Map, Measure, and Manage. Before using an AI model to detect suspicious logins, the authority should identify risks such as false alerts, unfair bias, and privacy problems involving citizens' data. The model should be tested to measure its accuracy before deployment. Clear responsibility, regular monitoring, and human review of important decisions can help reduce risks and protect users.
-Resource: NIST AI Risk Management Framework - https://www.nist.gov/itl/ai-risk-management-framework 
 
+Resource: NIST AI Risk Management Framework - https://www.nist.gov/itl/ai-risk-management-framework
 
 ## Mobile
+
+Android runtime permissions help protect users' private data by allowing them to approve or deny access to sensitive features. For a national login app, permissions should be limited to what is necessary for each feature. The app should request permission when the user starts an action that needs it, such as scanning an identity document with the camera. If permission is denied, the app should offer another available login method when possible.
+
+Resource: Permissions on Android - https://developer.android.com/guide/topics/permissions/overview
 
 ## Networking
 
