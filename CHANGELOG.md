@@ -1,1 +1,6 @@
-
+- 54f6cd6 fix: add skeleton content
+- a1b0830 overview: connect the six subtopics
+- 847ae88 research: software, ai, mobile
+- 2de2fcb research: networking, cybersecurity, data
+- 2654620 analysis: misconception and open question
+- 5b24539 revise: overview
