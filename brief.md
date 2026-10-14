@@ -43,4 +43,6 @@ Resource: Royal Decree 6/2022 Issuing the Personal Data Protection Law (Consolid
 
 ## Misconception in My Track
 
+A common misconception is that OAuth 2.0 alone is a complete login protocol that verifies a user's identity. This is incorrect. OAuth 2.0 is an authorization framework that allows applications to access protected resources with permission. OpenID Connect adds an authentication layer on top of OAuth 2.0, allowing a client to verify a user's identity through an ID token. The OpenID Connect Core 1.0 specification explains this distinction in Section 1, Introduction, particularly in the paragraph discussing OAuth 2.0 as background.
+
 ## Open Question
